@@ -1,9 +1,3 @@
-# CV-Python Jupyter Notebooks
-
-## Curso em Vídeo - Curso de Python 3.0
-
-**Autor:** Bruno C. Nogueira  
-
 Este repositório contém dois Jupyter Notebooks criados para complementar o aprendizado do curso **Curso de Python 3.0**, ministrado pelo professor **Gustavo Guanabara** no portal [Curso em Vídeo](http://www.cursoemvideo.com) e no [Canal do YouTube Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo). A seguir, uma breve descrição dos notebooks presentes no repositório:
 
 ### 1. CV-Python-Aulas.ipynb
