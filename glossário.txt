@@ -1,0 +1,65 @@
+print()
+input()
+type()
+int()
+float()
+len() - conta os caracteres de uma string
+bool() - retorna 'True' ou 'False'
+.format()
+f'' - f strings
+.isnumeric()
+.isalpha()
+.isalnum()
+operadores matemático (+, -, *, /, //, %, **)
+pow()
+{:20} - espaçamento
+{:>20} - alinhamento a direita
+{:<20} - alinhamento a esquerda
+{:^20} - centralizado
+{:=^20} - centralizado entre um caracter
+{:.3f} - definindo as casas decimais
+, end='' ou , /n- não quebra a linha
+
+import math - módulo math
+sqrt() - raiz quadrada
+ceil() - arrendondando para cima
+floor() - arredondando para baixo
+
+import random - módulo random
+.random()
+.radint()
+
+import time
+sleep()
+
+import datetime
+.date
+date.today().year
+
+.count('string', início, fim) - conta quantas vez um string aparece
+.find('string') - procura a partir da esquerda
+.rfind() - procura a partir da direita
+.upper() - maiúsculo
+.lower() - minúsculo
+.capitalize() - Só o primeiro caracter fica maiúsculo
+.title() - todos caracter antes do espaço fica maiúsculo
+.rstrip() - Remove os espaços a direita
+.lstrip() - Remove os espaços a esquerda
+.split(): altera a string refazendo os índices de caracteres
+.join() - insere caracter nos espaços
+.replace() - Vai procurar e substituir
+
+'xxxx' in variável - retorna 'True' ou 'False'
+
+if:
+elif:
+else:
+and
+or
+
+bin(variável) - converte para binário
+oct(variável) - converte para octal
+hex(variável) - converte para hexdecimal
+
+
+
